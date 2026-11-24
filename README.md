@@ -36,7 +36,7 @@ You only need a modern web browser to view the HTML file.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/khdxsohee/Flower-Haven.git](https://github.com/khdxsohee/Flower-Haven.git)
+    git clone [https://github.com/farhan-swe/Flower-Haven.git](https://github.com/farhan-swe/Flower-Haven.git)
     ```
 2.  **Navigate to the project directory:**
     ```sh
@@ -51,5 +51,5 @@ This project is open-source and available under the MIT License.
 
 ## 📞 Contact
 
-- **Your Name:** khdxsohee
-- **Project Link:** [https://github.com/khdxsohee/Flower-Haven](https://github.com/khdxsohee/Flower-Haven)
+- **Your Name:** farhan-swe
+- **Project Link:** [https://github.com/farhan-swe/Flower-Haven](https://github.com/farhan-swe/Flower-Haven)
